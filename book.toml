@@ -1,0 +1,10 @@
+[book]
+authors = ["huanglinzhi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mage_boook"
+
+
+[output.html]
+additional-css = ["index.css"]
